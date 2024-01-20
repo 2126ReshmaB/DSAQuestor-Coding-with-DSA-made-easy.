@@ -20,3 +20,21 @@ A DSA platform for interview preparation, built with TypeScript, Tailwind CSS, N
 
 ## Acknowledgments
 This project was inspired by LeetCode. Thanks to the creators of Nextjs, Firebase, TypeScript, and React.
+
+![Screenshot (217)](https://github.com/2126ReshmaB/DSAQuestor-Coding-with-DSA-made-easy./assets/118461173/5db6c23b-60f0-463d-a7f6-f9ebbf21a984)
+
+![Screenshot (218)](https://github.com/2126ReshmaB/DSAQuestor-Coding-with-DSA-made-easy./assets/118461173/d1b5a2b6-3e3b-46e0-9ea5-737c49364ec1)
+
+![Screenshot (219)](https://github.com/2126ReshmaB/DSAQuestor-Coding-with-DSA-made-easy./assets/118461173/a68587a5-b317-4e7a-9db8-25486793b3fc)
+
+![Screenshot (220)](https://github.com/2126ReshmaB/DSAQuestor-Coding-with-DSA-made-easy./assets/118461173/b76965df-256c-4cca-b525-fc4b30c03183)
+
+![Screenshot (221)](https://github.com/2126ReshmaB/DSAQuestor-Coding-with-DSA-made-easy./assets/118461173/8e36488a-ebd1-46da-a253-df4150cfcc13)
+
+![Screenshot (222)](https://github.com/2126ReshmaB/DSAQuestor-Coding-with-DSA-made-easy./assets/118461173/c3c5755e-cb70-40cf-b722-c5b5ea63d9da)
+
+![Screenshot (223)](https://github.com/2126ReshmaB/DSAQuestor-Coding-with-DSA-made-easy./assets/118461173/2100904f-de7d-40a2-9aaa-2f8bb1978e95)
+
+![Screenshot (224)](https://github.com/2126ReshmaB/DSAQuestor-Coding-with-DSA-made-easy./assets/118461173/de15e5b2-7a71-46d1-aade-43c25378def1)
+
+![Screenshot (225)](https://github.com/2126ReshmaB/DSAQuestor-Coding-with-DSA-made-easy./assets/118461173/4c11e79d-9ea6-4d1e-9e82-741c03ad4c5c)
