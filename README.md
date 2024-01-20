@@ -1,5 +1,5 @@
 <b>DSAQuestor - DSA platform for interview preparation</b>, built with TypeScript, Tailwind CSS, Next.js, React, and Firebase, is designed to help users practice Data Structures and Algorithms (DSA). Beginners can explore separate DSA topics with detailed contents, along with links to other websites for additional learning resources. The platform is centered around providing a comprehensive experience for beginners, offering carefully curated courses and YouTube channels. It is inspired by the structure of LeetCode, allowing users to enhance their DSA skills through hands-on problem-solving. 
-Technologies Used
+#Technologies Used
 TypeScript:
 
 Adds extra safety to JavaScript by catching errors early.
