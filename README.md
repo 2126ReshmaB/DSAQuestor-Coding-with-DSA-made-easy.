@@ -14,7 +14,7 @@ A DSA platform for interview preparation, built with TypeScript, Tailwind CSS, N
 ## Technologies Used
 * <b>TypeScript:</b>    Adds extra safety to JavaScript by catching errors early.<br/>
 * <b>Tailwind CSS:</b>     A tool for easily styling your website without writing a lot of custom CSS.<br/>
-* <b>Next.js:</b>     A framework that makes building React apps easier, with features like automatic code splitting and server-side rendering.https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png<br/>
+* <b>Next.js:</b>     A framework that makes building React apps easier, with features like automatic code splitting and server-side rendering.![](https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png)).<br/>
 * <b>React:</b>     A library for building user interfaces, making it easy to create and manage UI components.<br/>
 * <b>Firebase:</b>     A platform providing services like a real-time database and user authentication, making it easier to handle backend tasks.<br/>
 
